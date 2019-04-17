@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555526762 source:c:\users\altex\desktop\proiect poo 2\poo_2\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<fstream>
+	<bits/stdc++.h>
+
